@@ -26,5 +26,5 @@ This project is licensed under the MIT License. Do what you want as long as you 
 
 ## Roadmap
 
-[] | Long term- feature parity with [CychAU](https://github.com/CychUC/CychAU).
-[] | Introduce a runtime config file for offsets and patterns using the Zig Object Notation format.
+[ ] | Long term- feature parity with [CychAU](https://github.com/CychUC/CychAU).
+[ ] | Introduce a runtime config file for offsets and patterns using the Zig Object Notation format.
